@@ -1,6 +1,6 @@
 # Here is your challenge for Day 7
 
-## Project 1: Student Management System
+## Project 7: Student Management System
 
 *You can continue to use this same repl for your project. Just make sure you delete any previous code from our practice session.*
 
